@@ -1,0 +1,5 @@
+class ClasaNoua{
+    public ClasaNoua(){
+
+    }
+}
